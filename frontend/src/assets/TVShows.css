@@ -1,0 +1,37 @@
+.movies-page {
+  padding: 80px 30px 40px;
+  background-color: #141414;
+  color: white;
+  min-height: 100vh;
+}
+
+.genre-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.genre-filter button {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.genre-filter button:hover {
+  background-color: #e50914;
+}
+
+.genre-filter .active {
+  background-color: #e50914;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 20px;
+}

@@ -1,0 +1,75 @@
+.row {
+    margin: 40px 0;
+    position: relative;
+}
+
+.row-title {
+    color: white;
+    margin-left: 30px;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.scroll-controls {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.row-scroll-container {
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    /* padding: 20px 30px; */
+    gap: 16px;
+    padding: 20px 30;
+    scroll-behavior: smooth;
+
+    
+}
+
+.row-scroll-container::-webkit-scrollbar {
+  display: none; /* Hide scrollbar for clean look */
+}
+
+
+.scroll-btn {
+    background-color: rgba(219, 198, 198, 0.6);
+    border: none;
+    color: rgb(252, 247, 247);
+    font-size: 2rem;
+    cursor: pointer;
+    z-index: 10;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0 12px;
+    height: 60%;
+    display: flex;
+    align-items: center;
+    transition: background-color 0.02s;
+}
+
+.scroll-btn:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.scroll-btn.left {
+    left: 0;
+}
+
+.scroll-btn.right {
+    right: 0;
+}
+/* Responsive padding for narrow screens */
+@media (max-width: 600px) {
+    .row-scroll-container {
+    padding: 15px 10px;
+    gap: 12px;
+    }
+
+    .scroll-btn {
+    font-size: 1.5rem;
+    padding: 8px 10px;
+    }
+}

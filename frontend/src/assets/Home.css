@@ -1,0 +1,13 @@
+.home {
+  padding: 20px;
+  color: white;
+  background-color: #141414;
+  padding-bottom: 40px;
+  
+}
+.movie-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  
+}
