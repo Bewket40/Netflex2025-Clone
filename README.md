@@ -1,6 +1,7 @@
 This Netflix Clone is a fully functional front-end project that mimics the look and feel of Netflix. It integrates real-time movie data from the TMDB API, offering users a rich and dynamic movie browsing experience.
 
 Users can explore trending, popular, top-rated, and upcoming movies, search by title, filter by genre, and even save their favorites to a personal My List — all within a sleek and responsive interface.
+
 live demo: 
 https://netflex2025-clonefrontend.vercel.app
 
