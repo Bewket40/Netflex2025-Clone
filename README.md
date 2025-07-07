@@ -4,10 +4,9 @@ Users can explore trending, popular, top-rated, and upcoming movies, search by t
 
 ⚙️ Technologies Used
 
-Frontend	API	Styling	Features
-React	TMDB	Tailwind CSS / Custom CSS	Dynamic Routes, Movie Details
-Vite	Axios	Responsive Layout	Search & Filter
-React Router DOM		Grid & Flexbox	LocalStorage My List
+React	TMDB	Custom CSS	Dynamic Routes
+Vite	Axios
+React Router DOM		Grid & Flexbox
 
 ✅ Features
 🎞 Real-Time Movie Fetching via TMDB API
