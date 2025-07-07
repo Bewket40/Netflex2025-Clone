@@ -28,9 +28,7 @@ React Router DOM		Grid & Flexbox	LocalStorage My List
 Home page
 ![Screenshot 2025-07-07 133038](https://github.com/user-attachments/assets/43176edf-a8a4-4c78-8461-230f0acbb081)
 
-
 Movie detail page with trailer
-
 ![Screenshot 2025-07-07 133209](https://github.com/user-attachments/assets/d7a4222b-c137-4dd5-8044-44d54bfe12c3)
 
 Search results and genre filter
