@@ -25,6 +25,7 @@ React Router DOM		Grid & Flexbox	LocalStorage My List
 🔁 Scrollable horizontal movie rows
 
 🚫 404 Page for invalid routes
+
 Home page
 [Screenshot 2025-07-07 133742](https://github.com/user-attachments/assets/e05c2599-630e-45a9-88fa-9db730ceaf38)
 Movie detail page with trailer
