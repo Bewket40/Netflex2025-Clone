@@ -23,13 +23,17 @@ React Router DOM		Grid & Flexbox	LocalStorage My List
 📱 Fully Responsive for mobile and desktop
 
 🔁 Scrollable horizontal movie rows
-
 🚫 404 Page for invalid routes
 
 Home page
-[Screenshot 2025-07-07 133742](https://github.com/user-attachments/assets/e05c2599-630e-45a9-88fa-9db730ceaf38)
+
+![Screenshot 2025-07-07 133742](https://github.com/user-attachments/assets/e05c2599-630e-45a9-88fa-9db730ceaf38)
+
 Movie detail page with trailer
+
 ![Screenshot 2025-07-07 133209](https://github.com/user-attachments/assets/d7a4222b-c137-4dd5-8044-44d54bfe12c3)
+
 Search results and genre filter
+
 ![Screenshot 2025-07-07 133038](https://github.com/user-attachments/assets/43176edf-a8a4-4c78-8461-230f0acbb081)
 
